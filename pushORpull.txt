@@ -3,3 +3,8 @@ aaaaaaaaaaaaaaaaaaaaaaa
 bbbbbbbbbbbbbbbbbbbb
 ccccccccccccccccccccccccc
 dddddddddddddddddddd
+
+In the clone project, updata the pushORpull.txt alse
+this content is insert
+insert one row
+insert the orther row.
