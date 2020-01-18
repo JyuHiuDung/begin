@@ -4,7 +4,15 @@ bbbbbbbbbbbbbbbbbbbb
 ccccccccccccccccccccccccc
 dddddddddddddddddddd
 
+
 In the clone project, updata the pushORpull.txt alse
 this content is insert
 insert one row
 insert the orther row.
+
+add some content to this txt file.
+111111111111111111111
+222222222222222222222222
+333333333333333333333
+444444444444444444
+
